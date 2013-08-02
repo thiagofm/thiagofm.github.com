@@ -84,6 +84,7 @@ JB :
     provider : disqus
     disqus :
       short_name : thiago_fm
+      api_key: mn1sye1jMlYfeHpmMrjvjkjPvgrjAcjps8sVHp5N7MAYqHCDw1JE7wsg9hqzYnpb
     livefyre :
       site_id : 123
     intensedebate :
