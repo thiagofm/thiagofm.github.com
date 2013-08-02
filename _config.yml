@@ -83,8 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : thiago_fm
-      api_key: mn1sye1jMlYfeHpmMrjvjkjPvgrjAcjps8sVHp5N7MAYqHCDw1JE7wsg9hqzYnpb
+      short_name : thiago_fm_blog
     livefyre :
       site_id : 123
     intensedebate :
