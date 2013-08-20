@@ -3,7 +3,7 @@ layout: post
 title: "500 days of Open Source"
 description: ""
 category: 
-tags: []
+tags: [opensource git 500-days-of-OSS]
 ---
 {% include JB/setup %}
 
