@@ -121,7 +121,7 @@ before_script:
 # Wrapping up
 
 So, here we learned how to set up properly capybara to use phantom.js
-and how it could give us a speedup in our testing build whenever we have
+and how it could give us a speedup in our testing build whenever we need  
 those tricky javascript acceptance tests to be run.
 
 That's all folks.
