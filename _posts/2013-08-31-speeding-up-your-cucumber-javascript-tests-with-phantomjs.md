@@ -19,9 +19,9 @@ Enter phantom.js:
 
 This is what it's [website](http://phantomjs.org/) says.
 
-I thought it would take sometime to configure it work with capybara, I
+I thought it would take sometime to configure it to work with capybara, I
 was wrong. Let's start with the fun part now. Can't say how much I love
-the ruby community to make things always simpler than I expect.
+the ruby community to always make things simpler than I even expect.
 
 # Installing
 
