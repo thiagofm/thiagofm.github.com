@@ -15,8 +15,7 @@ So, I just had to do something about it otherwise it would take a lot of time to
 
 Enter phantom.js:
 
-> PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web
-standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
+> PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
 
 This is what it's [website](http://phantomjs.org/) says.
 
@@ -36,7 +35,7 @@ brew install phantomjs
 Now, let's add the [poltergeist](https://github.com/jonleighton/poltergeist) gem to your Gemfile, which adds support for the phantom.js
 driver for capybara right out of the box:
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 gem "poltergeist"
 {% endhighlight %}
 
@@ -50,16 +49,16 @@ And load & update the javascript's driver of capybara to be the poltergeist's
 one inside the cucumber's `env.rb` file, mine is located at
 `features/support/env.rb`:
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 require 'capybara/poltergeist'
 Capybara.javascript_driver = :poltergeist
-{% highlight %}
+{% endhighlight %}
 
 Now, it's done. On every single feature you annotate/tag with
 `@javascript` it will be run using the phantom.js's headless browser.
 Want an example? Here it is from [memcached-manager's project](https://github.com/thiagofm/memcached-manager/blob/83f11c5ec2ff8be46c049baf7b7f13c12fc7534c/features/webapp/create_memcached_key.feature):
 
-{% highlight feature %}
+{% highlight gherkin %}
 @webapp
 @javascript
 Feature: Create memcached pair
@@ -69,7 +68,7 @@ Feature: Create memcached pair
     And fill in "Value" with "bar"
     And click "create"
     Then it should exist in memcached
-{% highlight %}
+{% endhighlight %}
 
 # Dealing with asynchronous requests
 
@@ -98,7 +97,7 @@ Then /^"(.*?)" key should have the "(.*?)" value in memcached$/ do |key, value|
   sleep 1
   Memcached.get(key).should == value
 end
-{% highlight %}
+{% endhighlight %}
 
 Simple right? With just a `sleep 1` it was possible to the key be
 updated and checked.
@@ -113,11 +112,11 @@ current state of art of CI's allows no screen outputs -- for now.
 To make it work, just make sure you add to the `.travis.yml` file the
 following lines:
 
-{% highlight yml %}
+{% highlight yaml %}
 before_script:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
-{% highlight %}
+{% endhighlight %}
 
 # Wrapping up
 
