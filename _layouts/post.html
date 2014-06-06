@@ -54,7 +54,7 @@ archive: false
                     	<h4> {{ site.author }} </h4>
                     	<!-- Author Bio -->
                     	<p> 
-                    		A guy with a keyboard.
+                        A guy with a keyboard.
                     	</p>
                     </article>
                 </section>                
@@ -62,7 +62,7 @@ archive: false
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text={{page.title}} {{site.url}}{{ page.url }}"
+                <a class="icon-twitter" href="http://twitter.com/share?text={{page.title}}&amp;url={{site.url}}{{ page.url }}"
                     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
@@ -82,7 +82,6 @@ archive: false
             	<script type="text/javascript">
 
             	    var disqus_shortname = 'thiagofmblog'; 
-            		//var disqus_developer = 0; // developer mode is on
             	    (function() {
             	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
             	        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
