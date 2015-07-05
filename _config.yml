@@ -1,5 +1,5 @@
-name: thiago's thoughts
-description: Programming, data science and stuff
+name: thiago's stuff
+description: ruby, clojure, emacs, mech. keyboards...
 meta_description: "so meta"
 
 markdown: redcarpet
@@ -8,5 +8,5 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'http://thiago.fm'
-author:         'Thiago FM'
+url:            'http://thiagofm.github.io'
+author:         'Thiago Massa'
