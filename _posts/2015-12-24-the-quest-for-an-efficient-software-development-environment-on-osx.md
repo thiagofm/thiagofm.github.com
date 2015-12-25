@@ -71,15 +71,6 @@ The El Capitain update gave me a lot of trouble(brew...), but one of the greates
 To hide it just go to `System Preferences > General` and tick `Automatically hide and show the menu bar`.
 
 
-## Switching CTRL and Caps Lock
-
-Even if you aren't a shortcut key freak like me, you probably use CTRL more frequently than Caps Lock. CTRL is very poorly located at the keyboard, making you move your hand too much. It also poses a risk to RSI-related problems, as it's a very unconfortable key to press if you do touchtyping.
-
-On OSX you can easily do it by going to `System Preferences > General` and ticking `Automatically hide and show the menu bar`.
-
-This is very helpful if you are using Amethyst with a couple of spaces, so you can easily switch between them with CTRL+Number, and that with CTRL being well positioned in your keyboard.
-
-
 ## Wrapping up
 
 I'm a believer that productivity increases are in the small details. I'm very happy whenever people show me new tricks and also when they learn some with me.
