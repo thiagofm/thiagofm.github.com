@@ -7,7 +7,7 @@ tags: [software-development software meta software-engineering]
 ---
 {% include JB/setup %}
 
-The hardest question I've never been able to answer to people who doesn't write software but are part of the craft of writing software:
+The hardest question I've never been able to answer to people who doesn't write software but is part of the craft of writing software:
 
 `How is software developed?`
 
@@ -45,7 +45,7 @@ Do you cook? If so, you usually have to think what you want to cook for the birt
 
 You find that in your house you have the needed ingredients: flour, sugar, baking powder, chocolate powder, water.
 
-Then the needed tools: a kitchen(preferably clean), oven(CLEAN! You don't want it to taste like the Turkey from 2 weeks ago, right?), bowl(CLEAN!!!!!!)...
+Then the needed tools: a kitchen, oven, bowl. Should I mention that all those tools have to be clean?
 
 > So, in order to make a tasty cake, you need to make sure that  everything is clean. In software, the same applies. Sometimes the kitchen is just so messed up that you can't even see the ingredients. You need time to clean up things and maybe it wasn't even you that left this mess -- But it could also be you. Maybe you had to take the baked cake to your friend's birthday party, it had more priority, you couldn't skip his birthday right? (Deadlines).
 
@@ -73,9 +73,9 @@ In software, we don't have the recipe for the kind of cake we want to make. We m
 
 In the very end, your friend only tastes the cake. All the ingredients, recipe, tidiness of the kitchen isn't considered, but without all this carefully thought process, it wouldn't be a cake.
 
-There's a great documentary(in Netflix!) called `Jiro dreams of sushi`. It's a about a sushiman, a very famous and simple japanese dish who is over 80 years old and still work on making the best sushi ever. His sushi is very expensive, over $300 for a seat. At first, this looks like an exageration, as the documentary progresses, you see how much effort and money is spent on getting the best fish, the right preparation, the best people(most of them quit)... that the price looks cheap and the thoughtfulness put into it could take a man to the moon.
+There's a great documentary(in Netflix!) called `Jiro dreams of sushi`. It's about a Sushiman, a very famous and simple Japanese dish who is over 80 years old and still work on making the best sushi ever. His sushi is very expensive, over $300 for a seat. At first, this looks like an exaggeration, as the documentary progresses, you see how much effort and money is spent on getting the best fish, the right preparation, the best people(most of them quit)... that the price looks cheap and the thoughtfulness put into it could take a man to the moon.
 
-Software is the same.
+Writing software is the same.
 
 Remember the questions?
 
@@ -87,10 +87,10 @@ Remember the questions?
 
 And the more open, bigger question `How is software developed?`
 
-The open, bigger question is partially answered, probably as good as you could without grasping software well. But the closed, more direct questions aren't worth the time spent trying to answer them, because the tiny and complex details of each of the steps are useless for the end product.
+The open, bigger question is partially answered, probably as good as you could without grasping software well. But the closed, more direct questions aren't worth the time spent trying to answer them because the tiny and complex details of each of the steps are useless for the end product.
 
-Generally, all you want is the cake, the byproduct. A competent programmer should be able to give rough estimations(which are estimations, not promises) or ask for time to see how much cleaning up is needed in order to bake the cake you want. Instead of letting your emotions flow high when hearing that something is going to take more than a month or needs continuous, infinite improvement... trust the programmer and accept reality. Maybe it's worth to clean up the kitchen if you don't have an idea of a different cake that could be made with the ingredients available. 
+Generally, all you want is the cake, the byproduct. A competent programmer should be able to give rough estimations(which are estimations, not promises) or ask for time to see how much cleaning up is needed in order to bake the cake you want. Instead of letting your emotions flow high when hearing that something is going to take more than a month or needs continuous, infinite improvement... trust the programmer and accept reality. Maybe it's worth to clean up the kitchen if you don't have an idea of a different cake that could be made with the ingredients available.
 
-People who can do this in a great manner are more rare and scarce than the software developers. They are the ones who really push the business, humanity, kitchen -- everything forward. Not to mention they are a really pleasure to work with!
+People who can manage projects in a great manner are more rare and scarce than the software developers. They are the ones who really push the business, humanity, kitchen -- everything forward. Not to mention they are a real pleasure to work with!
 
 > A half-baked cake is as bad as no cake in the mouth of the customer. It takes zero effort to not make a cake and it takes zero dollars to buy zero cakes. Pick your cakes carefully.
