@@ -9,7 +9,7 @@ tags: [software-development software meta software-engineering]
 
 The hardest question I've never been able to answer to people who doesn't write software but is part of the craft of writing software:
 
-`How is software developed?`
+## How is software developed?
 
 This question unveils from closed questions which generally generate a lot of debate, such as:
 
@@ -39,7 +39,7 @@ So, I don't think it has anything to do with with Civil Engineering. Sorry. Almo
 
 So I propose something else.
 
-# Baking software
+## Writing software is more like cooking.
 
 Do you cook? If so, you usually have to think what you want to cook for the birthday party of your friend. Let's say you decide in a cake after a bit of thought. (the scope and expected outcome and looks of a feature)
 
@@ -67,7 +67,7 @@ You have to make sure everything is clean, see how much detail there is to the p
 
 > To make the most remarkable cake we need a very clean kitchen, a great recipe, select the ingredients with carefully with love. Taking to your friend's party burnt or turkey + chocolate cakes isn't a great idea, perhaps it's better to not make the cake at all.
 
-# Wrapping up
+## Wrapping up
 
 In software, we don't have the recipe for the kind of cake we want to make. We make the recipe by trying many times to get different parts of the cake right and if the ingredients are expired, missing or the kitchen is dirty, it gets harder and harder.
 
