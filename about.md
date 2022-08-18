@@ -3,8 +3,12 @@ layout: page
 title: About me 
 ---
 
-I'm a software engineer with codes [here](https://github.com/thiagofm) and [CV](http://www.linkedin.com/pub/thiago-fernandes-massa/51/91a/248).
+As you've reached this page, before I tell you anything about myself, please beware that I'm pretty approachable so feel free to talk with me on [twitter](https://twitter.com/th1agofm) either public or sending me a DM.
 
-I really enjoy programming languages in general: from R to Ruby. I'm currently interested in becoming a data scientist.
+I'm a software engineer with codes [here](https://github.com/thiagofm) and [CV](https://www.linkedin.com/in/thiago-massa-24891a51/).
 
-Outside of programming, I'm a nerdish/geekish type of guy. I really like economics, some politics and video games.
+I like technology and working with people. My long-term plan is to improve this world somehow. I know how open ended this sounds, because it is. I don't have everything figured out yet and this is what makes life exciting.
+
+In this blog I might sometimes write to myself, but my main goal is to improve both my ideas and the clarity of my writings so it becomes useful for you too, the reader.
+
+On my personal life, I'm trying to get more off-screen time on sports(climbing/swimming), reading books and or just doing absolutely nothing 😅
